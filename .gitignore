@@ -1,0 +1,12 @@
+# Unity
+Library/
+Temp/
+obj/
+
+# IDE
+.vscode/
+.gradle/
+.vs/
+
+# Misc
+.DS_Store
